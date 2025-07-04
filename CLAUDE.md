@@ -12,6 +12,7 @@ This is a Flutter web application project called `scroll_app`, part of a Flutter
 - `flutter pub get` - Install dependencies
 - `flutter pub upgrade` - Update dependencies
 - `flutter pub outdated` - Check for outdated packages
+- `flutter pud add dependencyname` - add a dependency
 
 ### Running the Application
 - `flutter run` - Run the app in development mode
